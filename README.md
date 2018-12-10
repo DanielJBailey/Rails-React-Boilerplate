@@ -8,6 +8,7 @@ A Rails w/ React Boilerplate to help you get started building faster.
 * SASS Capable
 * Faker gem
 * Pry gem
+* Axios for API Calls
 
 # Install
 Navigate to `home` directory
